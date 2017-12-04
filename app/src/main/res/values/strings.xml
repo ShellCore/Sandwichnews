@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sandwich news</string>
+    <string name="headline">Noticias del sandwich</string>
+    <string name="welcome">Bienvenido a la app</string>
 </resources>
